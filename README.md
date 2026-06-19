@@ -290,7 +290,7 @@ tests/     # pytestテストスイート
 ## 開発
 
 ```bash
-git clone https://github.com/Kasam/jmaxml.git
+git clone https://github.com/PixelNest256/jmaxml.git
 cd jmaxml
 pip install -e .[all]
 
